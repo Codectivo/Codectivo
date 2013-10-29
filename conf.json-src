@@ -1,0 +1,11 @@
+{
+	"general":{
+		"base_url": "http://url.com"
+	},
+	"email":{
+		"LOGIN_EMAIL": 'youremail',
+		"PASSWORD_EMAIL": 'your_password_email',
+        "SERVER_EMAIL": "your_server_email",
+        "PORT_EMAIL": port_email
+	}
+}
