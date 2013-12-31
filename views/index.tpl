@@ -162,7 +162,7 @@
     <footer>
         <div id='footer'>
             <div class="copyright">
-                © 2013. Codectivo Surrealista. Hecho con <font color="#FA5858" size="3px">♥</font>
+                © {{year}}. Codectivo Surrealista. Hecho con <font color="#FA5858" size="3px">♥</font>
                 . Todos los derechos reservados.
             </div>
         </div>

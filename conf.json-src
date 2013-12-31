@@ -2,6 +2,9 @@
 	"general":{
 		"base_url": "http://url.com"
 	},
+    "admin":{
+        "webmaster": "contacto@codectivo.com"
+    },
 	"email":{
 		"LOGIN_EMAIL": 'youremail',
 		"PASSWORD_EMAIL": 'your_password_email',

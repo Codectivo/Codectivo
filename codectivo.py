@@ -18,7 +18,8 @@ LOGGER.addHandler(ch)
 @route('/<page:int>')
 @view('index')
 def index(page=0):
-    return {'title': 0}
+    year = datetime.datetime.now().strftime("%Y")
+    return {'title': 0, 'year': year}
 
 @route('/form_contact', method='POST')
 def form_contact():
