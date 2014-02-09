@@ -24,7 +24,8 @@
                     <h1>Codectivo Surrealista</h1>
                     <p>Somos un grupo de cocineros de software que nunca han 
                         cocinado un pastel.
-                    </p>
+               
+     </p>
                 </div>
             </div>
         </div>
