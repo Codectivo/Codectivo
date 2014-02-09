@@ -89,7 +89,28 @@ body{
     font-family: 'Gudea', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
     color: #616161;
     font-size: 14px;
+}
 
+#proyect{
+    padding: 40px 15px;
+    background-color: #f4fffc;
+}
+
+#proyect h3{
+    font-family: 'BrandonLight', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
+    color: #404040;
+    font-size: 45px;
+}
+
+#proyect h2{
+    font-family: 'BrandonLight', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
+    color: #85c553;
+}
+
+#proyect p{
+    font-family: 'Gudea', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
+    color: #616161;
+    font-size: 18px;
 }
 
 #contact{
