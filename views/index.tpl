@@ -108,7 +108,7 @@
                             <p>Incubu, herramienta que ayudara a guardar
                                 tus claves de manera encriptada donde 
                                 solo tu puedes tener acceso. Puedes
-                                ver el <a href="https://github.com/Codectivo/Incubu">código</a> y contribuir.<p>
+                                ver el <a href="https://github.com/Codectivo/Incubu">código</a> y contribui ;).<p>
                         </div>
                 </div>
             </div>
