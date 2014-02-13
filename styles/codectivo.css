@@ -46,6 +46,8 @@ body{
 
 .present h1, p{
     text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
 
 .present h1{
@@ -68,16 +70,17 @@ body{
 
 #manifiesto h2{
     font-family: 'BrandonLight', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
-    color: #F44949;
+    color: #59b02d;
 }
 
 #workflow{
     padding: 40px 15px;
-    background-color: #f7f7f7;
+    background-color: #272727;
 }
 
 #workflow h3{
     font-family: 'BrandonLight', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
+    color: #f15041;
 }
 
 #workflow h2{
@@ -93,18 +96,18 @@ body{
 
 #proyect{
     padding: 40px 15px;
-    background-color: #f4fffc;
+    background-color: #FFF7F5;
 }
 
 #proyect h3{
     font-family: 'BrandonLight', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
-    color: #404040;
+    color: #f15041;
     font-size: 45px;
 }
 
 #proyect h2{
     font-family: 'BrandonLight', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
-    color: #85c553;
+    color: #59b02d;
 }
 
 #proyect p{
@@ -120,7 +123,7 @@ body{
 
 #contact h2{
     font-family: 'BrandonLight', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
-    color: #E34828;
+    color: #1CA49D;
 }
 
 #contact p{

@@ -51,7 +51,7 @@
                 <h2>Servicios</h2>
                 <div class='large-6 columns'>
                         <div class='row' style="text-align:center;">
-                            <img src="static/images/code.png"> <h3>Simplicidad</h3>
+                            <img src="static/images/code.png" width="60"> <h3>Simplicidad</h3>
                         </div>
                         <div class='row'>
                             <p>Creemos en que la solución más fácil es siempre la mejor. Estudiamos tu problema y te damos soluciones a medida. Hacemos interfaces
@@ -62,11 +62,11 @@
             <div class='large-11 large-centered columns'>
                 <div class='large-5 columns'>
                         <div class='row' style="text-align:center;">
-                            <img src="static/images/scalable.png"> <h3>Escalabilidad</h3>
+                            <img src="static/images/web.png" width="60"> <h3>Web</h3>
                         </div>
                         <div class='row'>
-                            <p>Creamos software a medida pero con estandares
-                                que lo llevaran a que se pueda escalar muy fácil.<p>
+                            <p>Creamos aplicaciones Web a la medida con diseños siempre personalizados para humanos. Especializados en
+                                Python/Django, PHP y derivados del Web como HTML, Javascript, CSS.<p>
                         </div>
                 </div>
             </div>
@@ -75,23 +75,23 @@
             <div class='large-8 large-centered columns'>
                 <div class='large-6 columns'>
                         <div class='row' style="text-align:center;">
-                            <img src="static/images/web.png"> <h3>Web</h3>
+                            <img src="static/images/movil.png" width="60"> <h3>Aplicaciones Móviles</h3>
                         </div>
                         <div class='row'>
-                            <p>Creamos aplicaciones Web a la medida con diseños siempre personalizados para humanos. Especializados en
-                                Python/Django, PHP y derivados del Web como HTML, Javascript, CSS.<p>
+                            <p>Creemos que el futuro esta en las aplicaciones
+                                móviles, nos especializamos en iOS/Android.
+                            <p>
                         </div>
                 </div>
             </div>
             <div class='large-11 large-centered columns'>
                 <div class='large-5 columns'>
                         <div class='row' style="text-align:center;">
-                            <img src="static/images/movil.png"> <h3>Aplicaciones Móviles</h3>
+                            <img src="static/images/scalable.png" width="63"> <h3>Escalabilidad</h3>
                         </div>
                         <div class='row'>
-                            <p>Creemos que el futuro esta en las aplicaciones
-                                móviles, nos especializamos en iOS/Android.
-                            <p>
+                            <p>Creamos software a medida pero con estandares
+                                que lo llevaran a que se pueda escalar muy fácil.<p>
                         </div>
                 </div>
             </div>
@@ -110,6 +110,16 @@
                                 tus claves de manera encriptada donde 
                                 solo tu puedes tener acceso. Puedes
                                 ver el <a href="https://github.com/Codectivo/Incubu">código</a> y contribur ;).<p>
+                        </div>
+                </div>
+                <div class='large-12 centered columns'>
+                        <div class='row' style="text-align:center;">
+                            <a href="https://github.com/Codectivo/Catrina.git"><h3>Catrina</h3></a>
+                        </div>
+                        <div class='row'>
+                            <p>Catrina, chat cifrado que te ayudara a mantener
+                            tus conversaciones privadas. Puedes <a href="https://github.com/Codectivo/Catrina.git">bajar</a>
+                            el proyecto y utilizarlo a tu manera.<p>
                         </div>
                 </div>
             </div>
